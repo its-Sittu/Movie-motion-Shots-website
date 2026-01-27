@@ -3,6 +3,10 @@
 This website is designed to showcase motion shots, fashion visuals, and cinematic content with a clean and professional UI.
 It adapts smoothly across desktop, tablet, and mobile devices using responsive design techniques.
 
+
+
+
+
 🛠️ Technologies Used
 
 HTML5 – Semantic structure and layout
@@ -14,6 +18,10 @@ Responsive CSS – Media queries for mobile and tablet responsiveness
 Font Awesome – Icons
 
 Video & Image Assets – For cinematic visual presentation
+
+
+
+
 
 ✨ Key Features
 
@@ -33,6 +41,9 @@ Optimized images with lazy loading
 
 Mobile-friendly navigation (hamburger menu)
 
+
+
+
 📱 Responsive Design
 
 The website is optimized using media queries to ensure:
@@ -44,6 +55,9 @@ Readable typography
 Touch-friendly elements
 
 Smooth performance on small screens
+
+
+
 
 📂 Project Structure
 Movie-Motion-Shot/
