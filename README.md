@@ -17,7 +17,7 @@ Responsive CSS – Media queries for mobile and tablet responsiveness
 
 Font Awesome – Icons
 
-Video & Image Assets – For cinematic visual presentation
+Video & Image Assets – For cinematic visual presentation 
 
 
 
