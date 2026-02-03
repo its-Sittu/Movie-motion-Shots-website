@@ -78,4 +78,4 @@ To improve CSS layout and animation skills
 
 To build a portfolio-ready cinematic website
 
-To strengthen fundamentals of HTML & CSS
+To strengthen fundamentals of HTML & CSS.
